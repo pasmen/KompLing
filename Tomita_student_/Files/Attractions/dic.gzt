@@ -1,0 +1,26 @@
+encoding "utf8";
+
+import "base.proto";
+import "articles_base.proto";
+import "fact_types.proto";
+
+TAuxDicArticle "FormulaExtract"
+{
+	key = {"tomita:first_grammar.cxx" type=CUSTOM}
+}
+
+TAuxDicArticle "Attractions"
+{
+	key = {'Авангард' | 'Площадь' | 'площадь' | 'Библиотека' | 'библиотека' | 'памятник' | 'Памятник' | 'Музей' | 'музей' | 'Дом' | 'дом' | 'Музей-квартира' | 'Мельница'}
+}
+
+TAuxDicArticle "Author"
+{
+	key = {'Гоголь' | 'Гоголю' | 'Паникаха' | 'Паникахе' | 'Дзержинский' | 'Дзержинскому' | 'Гергардт' | 'Гергардта' | 'чекистам' | 'Чекистам'}
+}
+
+TAuxDicArticle "Attraction"
+{
+	key = {'Мамаев   курган' | 'Воинский   эшелон' | 'Трамвай-памятник'}
+}
+

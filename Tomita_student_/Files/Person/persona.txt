@@ -1,0 +1,511 @@
+DOCTYPE html > < html >< head > < meta http-equiv =" content-type" content =" text / html ; charset=UTF-8" > < meta name =" viewport" content =" width=device-width , initial-scale=1 , user-scalable=no" > < meta charset =" utf-8" > < title>Деловые люди Волгограда . 
+Волгоградский бизнес портал < / title > < meta name =" keywords" content =" Волгоград , Волгоградская область , волгоградские новости , новости Волгограда , волгоградские пресс-релизы , каталог организаций Волгограда , работа в волгограде , вакансии в волгограде , рейтинг волгограда , рейтинг организаций волгограда , рейтинг людей волгограда" > < meta name =" description" content =" ДЕЛОВЫЕ ЛЮДИ ВОЛГОГРАДА ГлобалВОЛГОГРАД . ру уделяет особое внимание деятельности известных персон : политиков , чиновников , бизнесменов , банкиров , деятелей культуры и спорта . 
+Их мнение во многом определяет . . ." 
+> < meta name =" viewport" content =" width=device-width , initial-scale=1 , user-scalable=no" > < meta name =" yandex-verification" content =" 619e978a097c7bc0" > < link property =" stylesheet" rel =" stylesheet" type =" text / css" href =" % D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BB%D1 . 
+% 20%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0 / style.css" > < link property =" stylesheet" rel =" stylesheet" type =" text / css" href =" % D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BB%D1 . 
+% 20%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0 / subscribe.css" > < link property =" stylesheet" rel =" stylesheet" type =" text / css" href =" % D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BB%D1 . 
+% 20%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0 / bootstrap-iso.css" > < link property =" stylesheet" rel =" stylesheet" type =" text / css" href =" % D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BB%D1 . 
+% 20%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0 / jquery-ui-1.css" > < link property =" stylesheet" rel =" stylesheet" type =" text / css" href =" % D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BB%D1 . 
+% 20%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0 / font-awesome.css" > < script src =" % D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BB%D1 . 
+% 20%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0 / osd.js" >< / script >< script type =" text / javascript" async =" src =" % D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BB%D1 . 
+% 20%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0 / tag.js" >< / script >< script type =" text / javascript" async =" src =" % D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BB%D1 . 
+% 20%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0 / watch.js" >< / script >< script src =" % D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BB%D1 . 
+% 20%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0 / show_ads_impl_fy2019.js" id =" google_shimpl" >< / script >< script src =" % D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BB%D1 . 
+% 20%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0 / cookie.js" >< / script >< script charset =" UTF-8" src =" % D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BB%D1 . 
+% 20%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0 / 446bd80077b4a93fe96856b727a3548f_0.js" async =" >< / script > < link rel =" preload" href =" % D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BB%D1 . 
+% 20%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0 / integrator_002.js" as =" script" >< script type =" text / javascript" src =" % D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BB%D1 . 
+% 20%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0 / integrator_002.js" >< / script >< link rel =" preload" href =" % D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BB%D1 . 
+% 20%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0 / integrator.js" as =" script" >< script type =" text / javascript" src =" % D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BB%D1 . 
+% 20%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0 / integrator.js" >< / script >< / head > < body class =" main-page" > < div class =" wrapper" > < div class =" header" > < div class =" block-1-header-wrapper" > < div class =" block-1-header" > < div class =" filter-city" > < form action =" /" method =" post" > < select name =" filter-city" id =" city-filter" class =" city-filter" onchange =" location.href = this.value" > < option value =" selected =" selected" > Выберите Ваш город < / option > < option value =" http : / / www.globalmsk.ru" > Москва < / option > < option value =" http : / / www.global78.ru" > Санкт-Петербург < / option > < option value =" http : / / www.globalnsk.ru" > Новосибирск < / option > < option value =" http : / / www.globaleburg.ru" > Екатеринбург < / option > < option value =" http : / / www.globalkras.ru" > Краснодар < / option > < option value =" http : / / www.global55.ru" > Омск < / option > < option value =" http : / / www.global56.ru" > Оренбург < / option > < option value =" http : / / www.global52.ru" > Нижний Новгород < / option > < option value =" http : / / www.globalperm.ru" > Пермь < / option > < option value =" http : / / www.global58.ru" > Пенза < / option > < option value =" http : / / www.globalvlad.ru" > Владивосток < / option > < option value =" http : / / www.global-kaliningrad.ru" > Калининград < / option > < option value =" http : / / www.globalpskov.ru" > Псков < / option > < option value =" http : / / www.global-ryazan.ru" > Рязань < / option > < option value =" http : / / www.global86.ru" > Ханты-мансийск < / option > < option value =" http : / / www.global-tomsk.ru" > Томск < / option > < option value =" http : / / www.global351.ru" > Челябинск < / option > < option value =" http : / / www.global38.ru" > Иркутск < / option > < option value =" http : / / www.global3912.ru" > Красноярск < / option > < option value =" http : / / www.global-kazan.ru" > Казань < / option > < option value =" http : / / www.global-volgograd.ru" > Волгоград < / option > < option value =" http : / / www.global27.ru" > Хабаровск < / option > < option value =" http : / / www.global61.ru" > Ростов < / option > < option value =" http : / / www.global64.ru" > Саратов < / option > < option value =" http : / / www.global71.ru" > Тула < / option > < option value =" http : / / www.global72.ru" > Тюмень < / option > < option value =" http : / / www.global73.ru" > Ульяновск < / option > < option value =" http : / / www.global846.ru" > Самара < / option > < option value =" http : / / www.globalufa.ru" > Уфа < / option > < option value =" http : / / www.global76.ru" > Ярославль < / option > < option value =" http : / / www.globalkz.biz" > Казахстан < / option > < option value =" http : / / www.globalkiev.biz" > Украина < / option > < / select > < / form > < / div > < div class =" header-news" > < div class =" header-news-item" id =" news-item-1" style =" display : none ; "> < div class =" header-news-title" > Новосибирск : < / div > < div class =" header-news-text" >< a target =" _ blank" href =" https : / / globalnsk.ru / news / id / 11746" > В Новосибирске наладили производство мороженого со вкусом гречки < / a > < / div > < / div > < div class =" header-news-item" id =" news-item-2" style =" display : block ; "> < div class =" header-news-title" > Москва : < / div > < div class =" header-news-text" >< a target =" _ blank" href =" https : / / www.globalmsk.ru / news / id / 40153" >" Настоящий" : рэпер Элджей показал себя без линз и грилзов < / a > < / div > < / div > < div class =" header-news-item" id =" news-item-3" style =" display : none ; "> < div class =" header-news-title" > Краснодар : < / div > < div class =" header-news-text" >< a target =" _ blank" href =" https : / / globalkras.ru / news / id / 9500" > В Краснодаре на ремонт скверов направили 280 млн рублей < / a > < / div > < / div > < div class =" header-news-item" id =" news-item-4" style =" display : none ; "> < div class =" header-news-title" > Нижний Новгород : < / div > < div class =" header-news-text" >< a target =" _ blank" href =" https : / / global52.ru / news / id / 10592" > Надежда Отделкина ушла с поста омбудсмена Нижегородской области < / a > < / div > < / div > < div class =" header-news-item" id =" news-item-5" style =" display : none ; "> < div class =" header-news-title" > Владивосток : < / div > < div class =" header-news-text" >< a target =" _ blank" href =" https : / / globalvlad.ru / news / id / 8376" > Расходы бюджета Владивостока увеличат на 1 млрд рублей < / a > < / div > < / div > < div class =" header-news-item" id =" news-item-6" style =" display : none ; "> < div class =" header-news-title" > Пермь : < / div > < div class =" header-news-text" >< a target =" _ blank" href =" https : / / globalperm.ru / news / id / 9084" > В Прикамье на закупку томографов направят 368,5 млн рублей < / a > < / div > < / div > < div class =" header-news-item" id =" news-item-7" style =" display : none ; "> < div class =" header-news-title" > Екатеринбург : < / div > < div class =" header-news-text" >< a target =" _ blank" href =" https : / / globaleburg.ru / news / id / 9856" > В Екатеринбурге началась бизнес-неделя "Новые решения" < / a > < / div > < / div > < div class =" header-news-item" id =" news-item-8" style =" display : none ; "> < div class =" header-news-title" > Оренбург : < / div > < div class =" header-news-text" >< a target =" _ blank" href =" https : / / global56.ru / news / id / 7529" > В бюджет Оренбурга добавили новую статью < / a > < / div > < / div > < div class =" header-news-item" id =" news-item-9" style =" display : none ; "> < div class =" header-news-title" > Санкт-Петербург : < / div > < div class =" header-news-text" >< a target =" _ blank" href =" https : / / global78.ru / news / id / 5707" > В Санкт-Петербурге на детские лагеря выделили 2 млрд рублей < / a > < / div > < / div > < div class =" header-news-item" id =" news-item-10" style =" display : none ; "> < div class =" header-news-title" > Пермь : < / div > < div class =" header-news-text" >< a target =" _ blank" href =" https : / / global58.ru / news / id / 8767" > Пензенские производители нарастили объем отгруженной продукции < / a > < / div > < / div > < div class =" header-news-item" id =" news-item-11" style =" display : none ; "> < div class =" header-news-title" > Ульяновск : < / div > < div class =" header-news-text" >< a target =" _ blank" href =" https : / / global73.ru / news / id / 3510" > Прямое общение Антона Силуанова с бизнесом приносит свои плоды < / a > < / div > < / div > < div class =" header-news-item" id =" news-item-12" style =" display : none ; "> < div class =" header-news-title" > Ярославль : < / div > < div class =" header-news-text" >< a target =" _ blank" href =" https : / / global76.ru / news / id / 4223" > Мэр Ярославля вручил смартфоны школьникам из многодетных семей < / a > < / div > < / div > < div class =" header-news-item" id =" news-item-13" style =" display : none ; "> < div class =" header-news-title" > Омск : < / div > < div class =" header-news-text" >< a target =" _ blank" href =" https : / / global55.ru / news / id / 12306" > Власти Омска купят 33 низкопольных троллейбуса < / a > < / div > < / div > < div class =" header-news-item" id =" news-item-14" style =" display : none ; "> < div class =" header-news-title" > Ростов : < / div > < div class =" header-news-text" >< a target =" _ blank" href =" https : / / global61.ru / news / id / 4581" > Голубев разозлил ростовчан продлением режима ограничений < / a > < / div > < / div > < div class =" header-news-item" id =" news-item-15" style =" display : none ; "> < div class =" header-news-title" > Хабаровск : < / div > < div class =" header-news-text" >< a target =" _ blank" href =" https : / / global27.ru / news / id / 4588" > Власти Хабаровска задумались о реновации по примеру Москвы < / a > < / div > < / div > < div class =" header-news-item" id =" news-item-16" style =" display : none ; "> < div class =" header-news-title" > Ханты-Мансийск : < / div > < div class =" header-news-text" >< a target =" _ blank" href =" https : / / global86.ru / news / id / 4727" > В Ханты-Мансийске построят парковку со скамейками и Wi-Fi < / a > < / div > < / div > < div class =" header-news-item" id =" news-item-17" style =" display : none ; "> < div class =" header-news-title" > Тула : < / div > < div class =" header-news-text" >< a target =" _ blank" href =" https : / / global71.ru / news / id / 4571" > Щекинский район потратил большую часть бюджета на сферу ЖКХ < / a > < / div > < / div > < div class =" header-news-item" id =" news-item-18" style =" display : none ; "> < div class =" header-news-title" > Иркутск : < / div > < div class =" header-news-text" >< a target =" _ blank" href =" https : / / global38.ru / news / id / 3898" > Индекс деловой активности ГлобалМедиа PMI , июль 2019 < / a > < / div > < / div > < div class =" header-news-item" id =" news-item-19" style =" display : none ; "> < div class =" header-news-title" > Саратов : < / div > < div class =" header-news-text" >< a target =" _ blank" href =" https : / / global64.ru / news / id / 4112" > Володин нашел способ пополнить бюджет Саратова < / a > < / div > < / div > < div class =" header-news-item" id =" news-item-20" style =" display : none ; "> < div class =" header-news-title" > Самара : < / div > < div class =" header-news-text" >< a target =" _ blank" href =" https : / / global846.ru / news / id / 4602" > Самарская область нарастила экспорт продукции АПК на 20 %< / a > < / div > < / div > < div class =" header-news-item" id =" news-item-21" style =" display : none ; "> < div class =" header-news-title" > Красноярск : < / div > < div class =" header-news-text" >< a target =" _ blank" href =" https : / / global3912.ru / news / id / 3370" > Медведев обсудит с экспертами национальные цели развития < / a > < / div > < / div > < div class =" header-news-item" id =" news-item-22" style =" display : none ; "> < div class =" header-news-title" > Челябинск : < / div > < div class =" header-news-text" >< a target =" _ blank" href =" https : / / global351.ru / news / id / 3264" > Госдума рассмотрит вопрос о снижении ставки по ипотеке до 8 %< / a > < / div > < / div > < div class =" header-news-item" id =" news-item-23" style =" display : none ; "> < div class =" header-news-title" > Казань : < / div > < div class =" header-news-text" >< a target =" _ blank" href =" https : / / global-kazan.ru / news / id / 1812" > Эксперт : В России наблюдаются сугубо позитивные тренды < / a > < / div > < / div > < div class =" header-news-item" id =" news-item-24" style =" display : none ; "> < div class =" header-news-title" > Тюмень : < / div > < div class =" header-news-text" >< a target =" _ blank" href =" https : / / global72.ru / news / id / 1422" > Россия сохранит мировое лидерство по экспорту пшеницы < / a > < / div > < / div > < div class =" header-news-item" id =" news-item-25" style =" display : none ; "> < div class =" header-news-title" > Уфа : < / div > < div class =" header-news-text" >< a target =" _ blank" href =" https : / / globalufa.ru / news / id / 1901" > Владимира Скрипку ищет полиция < / a > < / div > < / div > < div class =" header-news-item" id =" news-item-26" style =" display : none ; "> < div class =" header-news-title" > Томск : < / div > < div class =" header-news-text" >< a target =" _ blank" href =" https : / / global-tomsk.ru / news / id / 3650" > Алишеру Усманову вручили орден Дружбы < / a > < / div > < / div > < div class =" header-news-item" id =" news-item-27" style =" display : none ; "> < div class =" header-news-title" > Псков : < / div > < div class =" header-news-text" >< a target =" _ blank" href =" https : / / globalpskov.ru / news / id / 4595" > Михеев : Многие псковские предприятия закроются после пандемии < / a > < / div > < / div > < div class =" header-news-item" id =" news-item-28" style =" display : none ; "> < div class =" header-news-title" > Калининград : < / div > < div class =" header-news-text" >< a target =" _ blank" href =" https : / / www.global-kaliningrad.ru / news / id / 3801" > Еврокомиссия ухудшила прогноз по росту ВВП России < / a > < / div > < / div > < div class =" header-news-item" id =" news-item-29" style =" display : none ; "> < div class =" header-news-title" > Волгоград : < / div > < div class =" header-news-text" >< a target =" _ blank" href =" https : / / global-volgograd.ru / news / id / 4005" > Национальный экологический рейтинг : мифы и реальность < / a > < / div > < / div > < div class =" header-news-item" id =" news-item-30" style =" display : none ; "> < div class =" header-news-title" > Рязань : < / div > < div class =" header-news-text" >< a target =" _ blank" href =" https : / / global-ryazan.ru / news / id / 4737" > Любимов оценил последствия пандемии для Рязанской области < / a > < / div > < / div > 
+	SAO
+	{
+		Name = Ростов
+	}
+	SAO
+	{
+		Name = Надежда Отделкина
+	}
+	SAO
+	{
+		Name = Антон Силуанов
+	}
+	SAO
+	{
+		Name = Ростов
+	}
+	SAO
+	{
+		Name = Голубев
+	}
+	SAO
+	{
+		Name = Володин
+	}
+	SAO
+	{
+		Name = Медведев
+	}
+	SAO
+	{
+		Name = Владимира Скрипка
+	}
+	SAO
+	{
+		Name = Алишер Усманов
+	}
+	SAO
+	{
+		Name = Михеев
+	}
+	SAO
+	{
+		Name = Любимов
+	}
+< / div > < div class =" user-login" > < div class =" enter" >< a href =" https : / / global-volgograd.ru / login" > Вход < / a >< / div > < div class =" registration" >< a href =" https : / / global-volgograd.ru / register /" > Регистрация < / a >< / div > < / div > < div class =" header-mail" >< a href =" https : / / global-volgograd.ru / subscribe" > Подписка на рассылку < / a >< / div > < / div > < / div > < div class =" block-2-header-wrapper" > < div class =" block-2-header" > < div class =" material-menu-button" > < span >< / span > < span >< / span > < span >< / span > < / div > < div class =" header-logo" > 
+< div class =" logo_image" > < a href =" https : / / global-volgograd.ru /" >< img src =" % D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BB%D1 . 
+% 20%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0 / logo.gif" alt =" logo" >< / a > < / div > < div class =" logo_text" > < div class =" text_1" >< a href =" https : / / global-volgograd.ru /" > Глобал<span>ВОЛГОГРАД < / span >< span > . py < / span >< / a >< / div > < div class =" text_2" >< a href =" https : / / global-volgograd.ru /" > Волгоградский бизнес портал < / a >< / div > < / div > 
+< / div > < div class =" header-weather" > < div class =" clock-block" id =" clock" > 
+18:16 < / div > < div class =" weather-block" > < img src =" % D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BB%D1 . 
+% 20%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0 / bkn_d.png" alt =" > + 23 C ° < / div > < div class =" clear" >< / div > < div class =" traffic-block" > 
+Пробки : & nbsp ; & nbsp ; < img src =" % D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BB%D1 . 
+% 20%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0 / green.png" alt =" > 1 < / div > < / div > < div class =" header-course-currency" > < div class =" currency currency-2" > < div class =" currency-ico" >$< / div > < div class =" currency-nomber" > 70.7520 < / div > < div class =" currency-rating" >< / div > < / div > < div class =" currency currency-1" > < div class =" currency-ico" >€< / div > < div class =" currency-nomber" > 78.5489 < / div > < div class =" currency-rating" >< / div > < / div > < / div > 
+< div class =" header-banner-468x60" > 
+- - advertisement 19 - - > < script async =" src =" % D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BB%D1 . 
+% 20%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0 / adsbygoogle.js" >< / script > < ! 
+- - ЗАГЛУШКА А1 - - > < ins class =" adsbygoogle" style =" display : inline-block ; width : 468px ; height : 0px ; " data-ad-client =" ca-pub-5153762079615820" data-ad-slot =" 0472597737" data-adsbygoogle-status =" done" >< ins id =" aswift_4_expand" style =" display : inline-table ; border : medium none ; height : 0px ; margin : 0px ; padding : 0px ; position : relative ; visibility : visible ; width : 468px ; background-color : transparent ; ">< ins id =" aswift_4_anchor" style =" display : block ; border : medium none ; height : 0px ; margin : 0px ; padding : 0px ; position : relative ; visibility : visible ; width : 468px ; background-color : transparent ; overflow : hidden ; opacity : 0 ; ">< iframe id =" aswift_4" name =" aswift_4" style =" left:0 ; position:absolute ; top:0 ; border:0 ; width:468px ; height:60px ; " src =" % D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BB%D1 . 
+% 20%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0 / ads.html" marginwidth =" 0" marginheight =" 0" vspace =" 0" hspace =" 0" allowtransparency =" true" scrolling =" no" allowfullscreen =" true" data-google-container-id =" a ! 
+5" data-load-complete =" true" data-google-query-id =" CM2entzw2-kCFQaXmwod4aYEoQ" width =" 468" height =" 60" frameborder =" 0" >< / iframe >< / ins >< / ins >< / ins > < script > ( adsbygoogle = window.adsbygoogle | | [] ) . push ( {} ) ; < / script > < / div > 
+< / div > < / div > < div class =" main-block-menu" > < div class =" block-menu-inner" > < div class =" main_menu_wrapper" > < ul class =" main_menu" > < li class =" leaf leaf_1" >< a href =" https : / / global-volgograd.ru /" > Главная < / a >< / li > < li class =" leaf leaf_2" >< a href =" https : / / global-volgograd.ru / news" > Новости < / a >< / li > < li class =" leaf leaf_3" >< a href =" https : / / global-volgograd.ru / vacancy" > Работа < / a >< / li > < li class =" leaf leaf_4" >< a href =" https : / / global-volgograd.ru / firmnews" > Пресс-релизы < / a >< / li > < li class =" leaf leaf_5" >< a href =" https : / / global-volgograd.ru / catalog" > Компании < / a >< / li > < li class =" leaf leaf_6" >< a href =" https : / / global-volgograd.ru / person" > Люди < / a >< / li > < li class =" leaf leaf_7" >< a href =" https : / / global-volgograd.ru / quotes" > Цитаты < / a >< / li > < / ul > < form action =" https : / / global-volgograd.ru / search" id =" search-block-form-mobile" > < div class =" search_wrapper" > < div class =" search_text" > < input name =" cx" value =" partner-pub-5153762079615820:m0ir8ulcvst" type =" hidden" > < input name =" cof" value =" FORID:10" type =" hidden" > < input name =" ie" value =" utf-8" type =" hidden" > < input type =" text" class =" form_text" name =" q" placeholder =" Поиск по сайту" > < / div > < div class =" form_actions" > < input type =" submit" class =" form-submit" value =" Поиск" name =" sa" > < / div > < / div > < input name =" siteurl" value =" /" type =" hidden" >< input name =" ref" type =" hidden" >< input name =" ss" type =" hidden" > < / form > < / div > < div class =" header_search" > < form action =" https : / / global-volgograd.ru / search" id =" search-block-form" > < div class =" search_wrapper" > < div class =" search_text" > < input name =" cx" value =" partner-pub-5153762079615820:m0ir8ulcvst" type =" hidden" > < input name =" cof" value =" FORID:10" type =" hidden" > < input name =" ie" value =" utf-8" type =" hidden" > < input type =" text" class =" form_text" name =" q" placeholder =" Поиск по сайту" > < / div > < div class =" form_actions" > < input type =" submit" class =" form-submit" value =" Поиск" name =" sa" > < / div > < / div > < input name =" siteurl" value =" /" type =" hidden" >< input name =" ref" type =" hidden" >< input name =" ss" type =" hidden" > < / form > < / div > 
+< / div > < / div > < / div > < div class =" block-bread-crumbs-wrapper" > < div class =" block-bread-crumbs" > < div class =" field-bread-crumbs" > < div class =" field-item" >< a href =" https : / / global-volgograd.ru /" > Главная < / a >< / div > < div class =" field-item" >< a href =" https : / / global-volgograd.ru / person" > Персоны < / a >< / div > < / div > < h2 class =" block_title" > Персоны < / h2 > < / div > < / div > < div class =" middle" > < div class =" container" > < div class =" content" > < div class =" content-wrap" > < div class =" person-filter" > 
+Смотреть рейтинг < select name =" type" onchange =" location.href =' ? type =' + this.value" > < option value =" 0" selected =" selected" > За год < / option > < option value =" 1" > За 3 месяца < / option > < option value =" 2" > За 1 месяц < / option > < option value =" 3" > За неделю < / option > < / select > < / div > < div class =" person-block" > < div class =" icon" > < a href =" https : / / global-volgograd.ru / person / id / 104" >< img src =" % D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BB%D1 . 
+% 20%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0 / 34-14242034230.jpg" alt =" БОЧАРОВ Андрей Иванович" >< / a > < / div > < div class =" person-text" > < div class =" title" > < a href =" https : / / global-volgograd.ru / person / id / 104" > БОЧАРОВ Андрей Иванович < / a > < / div > 
+	SAO
+	{
+		Name = БОЧАРОВ Андрей Иванович
+	}
+	SAO
+	{
+		Name = БОЧАРОВ Андрей Иванович
+	}
+< div class =" person-text-org" > < span class =" label" > Организация < / span > < a href =" https : / / global-volgograd.ru / catalog / id / 160" title =" Администрация ( правительство ) Волгоградской области" > Администрация ( правительство ) Волгоградской област < / a > < / div > < div class =" button" >< a href =" https : / / global-volgograd.ru / person / id / 104" > Читать далее < / a >< / div > < / div > < div class =" person-position" > < div class =" position" > 1 < / div > < div class =" position-title" > Место < / div > < / div > < / div > < div class =" person-block" > < div class =" icon" > < a href =" https : / / global-volgograd.ru / person / id / 169" >< img src =" % D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BB%D1 . 
+% 20%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0 / person-15640587870.jpg" alt =" МЕРЖОЕВА Зина Османовна" >< / a > < / div > < div class =" person-text" > < div class =" title" > < a href =" https : / / global-volgograd.ru / person / id / 169" > МЕРЖОЕВА Зина Османовна < / a > < / div > Заместитель губернатора < div class =" person-text-org" > < span class =" label" > Организация < / span > < a href =" https : / / global-volgograd.ru / catalog / id / 160" title =" Администрация ( правительство ) Волгоградской области" > Администрация ( правительство ) Волгоградской област < / a > < / div > < div class =" button" >< a href =" https : / / global-volgograd.ru / person / id / 169" > Читать далее < / a >< / div > < / div > < div class =" person-position" > < div class =" position" > 2 < / div > < div class =" position-title" > Место < / div > < / div > < / div > < div class =" person-block" > < div class =" icon" > < a href =" https : / / global-volgograd.ru / person / id / 138" >< img src =" % D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BB%D1 . 
+	Chief
+	{
+		Name = Заместитель губернатора
+	}
+% 20%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0 / 190-14256198520.jpg" alt =" БЕКОВ Роман Сергеевич" >< / a > < / div > < div class =" person-text" > < div class =" title" > < a href =" https : / / global-volgograd.ru / person / id / 138" > БЕКОВ Роман Сергеевич < / a > < / div > Председатель комитета < div class =" person-text-org" > < span class =" label" > Организация < / span > < a href =" https : / / global-volgograd.ru / catalog / id / 313" title =" Комитет промышленности и торговли Волгоградской области" > Комитет промышленности и торговли Волгоградской об < / a > < / div > < div class =" button" >< a href =" https : / / global-volgograd.ru / person / id / 138" > Читать далее < / a >< / div > < / div > < div class =" person-position" > < div class =" position" > 3 < / div > < div class =" position-title" > Место < / div > < / div > < / div > < div class =" person-block" > < div class =" icon" > < a href =" https : / / global-volgograd.ru / person / id / 86" >< img src =" % D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BB%D1 . 
+	SAO
+	{
+		Name = БЕКОВ Роман Сергеевич
+	}
+	SAO
+	{
+		Name = БЕКОВ Роман Сергеевич
+	}
+	Chief
+	{
+		Name = Председатель комитета
+	}
+% 20%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0 / 242-15307583670.jpg" alt =" ИВАНОВ Василий Васильевич" >< / a > < / div > < div class =" person-text" > < div class =" title" > < a href =" https : / / global-volgograd.ru / person / id / 86" > ИВАНОВ Василий Васильевич < / a > < / div > Председатель комитета < div class =" person-text-org" > < span class =" label" > Организация < / span > < a href =" https : / / global-volgograd.ru / catalog / id / 254" title =" Комитет сельского хозяйства Волгоградской области" > Комитет сельского хозяйства Волгоградской области < / a > < / div > < div class =" button" >< a href =" https : / / global-volgograd.ru / person / id / 86" > Читать далее < / a >< / div > < / div > < div class =" person-position" > < div class =" position" > 4 < / div > < div class =" position-title" > Место < / div > < / div > < / div > < div class =" person-block" > < div class =" icon" > < a href =" https : / / global-volgograd.ru / person / id / 170" >< img src =" % D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BB%D1 . 
+	SAO
+	{
+		Name = ИВАНОВ Василий Васильевич
+	}
+	SAO
+	{
+		Name = ИВАНОВ Василий Васильевич
+	}
+	Chief
+	{
+		Name = Председатель комитета
+	}
+% 20%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0 / person-15650774230.jpg" alt =" ШАРИФОВ Руслан Вагитович" >< / a > < / div > < div class =" person-text" > < div class =" title" > < a href =" https : / / global-volgograd.ru / person / id / 170" > ШАРИФОВ Руслан Вагитович < / a > < / div > Депутат < div class =" person-text-org" > < span class =" label" > Организация < / span > < a href =" https : / / global-volgograd.ru / catalog / id / 246" title =" Волгоградская областная Дума" > Волгоградская областная Дума < / a > < / div > < div class =" button" >< a href =" https : / / global-volgograd.ru / person / id / 170" > Читать далее < / a >< / div > < / div > < div class =" person-position" > < div class =" position" > 5 < / div > < div class =" position-title" > Место < / div > < / div > < / div > < div class =" baner-person-wrap" > 
+	SAO
+	{
+		Name = ШАРИФОВ Руслан Вагитович
+	}
+	SAO
+	{
+		Name = ШАРИФОВ Руслан Вагитович
+	}
+	Chief
+	{
+		Name = Депутат
+	}
+- - advertisement 34 - - > < center >< script type =" text / javascript" > google_ad_client = "ca-pub-5153762079615820" ; google_ad_slot = "1775522318" ; google_ad_width = 728 ; google_ad_height = 90 ; < / script >< script type =" text / javascript" src =" % D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BB%D1 . 
+% 20%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0 / show_ads.js" >< / script >< ins id =" aswift_0_expand" style =" display:inline-table ; border:none ; height:90px ; margin:0 ; padding:0 ; position:relative ; visibility:visible ; width:706px ; background-color:transparent ; " data-ad-slot =" 1775522318" >< ins id =" aswift_0_anchor" style =" display:block ; border:none ; height:90px ; margin:0 ; padding:0 ; position:relative ; visibility:visible ; width:706px ; background-color:transparent ; ">< iframe id =" aswift_0" name =" aswift_0" style =" left:0 ; position:absolute ; top:0 ; border:0 ; width:706px ; height:90px ; " src =" % D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BB%D1 . 
+% 20%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0 / ads.html" marginwidth =" 0" marginheight =" 0" vspace =" 0" hspace =" 0" allowtransparency =" true" scrolling =" no" allowfullscreen =" true" data-google-container-id =" a ! 
+1" data-google-query-id =" CJiEjtzw2-kCFYHImgodfUAAvw" data-load-complete =" true" width =" 706" height =" 90" frameborder =" 0" >< / iframe >< / ins >< / ins >< / center > < / div > < div class =" person-block" > < div class =" icon" > < a href =" https : / / global-volgograd.ru / person / id / 112" >< img src =" % D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BB%D1 . 
+% 20%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0 / 190-14342780880.jpg" alt =" ДОРЖДЕЕВ Александр Владимирович" >< / a > < / div > < div class =" person-text" > < div class =" title" > < a href =" https : / / global-volgograd.ru / person / id / 112" > ДОРЖДЕЕВ Александр Владимирович < / a > < / div > Министр < div class =" person-text-org" > < span class =" label" > Организация < / span > < a href =" https : / / global-volgograd.ru / catalog / id / 160" title =" Администрация ( правительство ) Волгоградской области" > Администрация ( правительство ) Волгоградской област < / a > < / div > < div class =" button" >< a href =" https : / / global-volgograd.ru / person / id / 112" > Читать далее < / a >< / div > < / div > < div class =" person-position" > < div class =" position" > 6 < / div > < div class =" position-title" > Место < / div > < / div > < / div > < div class =" person-block" > < div class =" icon" > < a href =" https : / / global-volgograd.ru / person / id / 168" >< img src =" % D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BB%D1 . 
+% 20%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0 / person-15617828100.jpg" alt =" ВАСИЛЬЕВ Анатолий Николаевич" >< / a > < / div > < div class =" person-text" > < div class =" title" > < a href =" https : / / global-volgograd.ru / person / id / 168" > ВАСИЛЬЕВ Анатолий Николаевич < / a > < / div > Председатель комитета < div class =" person-text-org" > < span class =" label" > Организация < / span > < a href =" https : / / global-volgograd.ru / catalog / id / 730" title =" Комитет транспорта и дорожного хозяйства Волгоградской области" > Комитет транспорта и дорожного хозяйства Волгоград < / a > < / div > < div class =" button" >< a href =" https : / / global-volgograd.ru / person / id / 168" > Читать далее < / a >< / div > < / div > < div class =" person-position" > < div class =" position" > 7 < / div > < div class =" position-title" > Место < / div > < / div > < / div > < div class =" person-block" > < div class =" icon" > < a href =" https : / / global-volgograd.ru / person / id / 142" >< img src =" % D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BB%D1 . 
+	SAO
+	{
+		Name = ВАСИЛЬЕВ Анатолий Николаевич
+	}
+	SAO
+	{
+		Name = ВАСИЛЬЕВ Анатолий Николаевич
+	}
+	Chief
+	{
+		Name = Председатель комитета
+	}
+% 20%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0 / 190-14256196150.jpg" alt =" ШКАРИН Владимир Вячеславович" >< / a > < / div > < div class =" person-text" > < div class =" title" > < a href =" https : / / global-volgograd.ru / person / id / 142" > ШКАРИН Владимир Вячеславович < / a > < / div > Заместитель губернатора < div class =" person-text-org" > < span class =" label" > Организация < / span > < a href =" https : / / global-volgograd.ru / catalog / id / 160" title =" Администрация ( правительство ) Волгоградской области" > Администрация ( правительство ) Волгоградской област < / a > < / div > < div class =" button" >< a href =" https : / / global-volgograd.ru / person / id / 142" > Читать далее < / a >< / div > < / div > < div class =" person-position" > < div class =" position" > 8 < / div > < div class =" position-title" > Место < / div > < / div > < / div > < div class =" person-block" > < div class =" icon" > < a href =" https : / / global-volgograd.ru / person / id / 188" >< img src =" % D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BB%D1 . 
+	Chief
+	{
+		Name = Заместитель губернатора
+	}
+% 20%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0 / person-15878998710.jpg" alt =" ПИСЕМСКАЯ Анна Сергеевна" >< / a > < / div > < div class =" person-text" > < div class =" title" > < a href =" https : / / global-volgograd.ru / person / id / 188" > ПИСЕМСКАЯ Анна Сергеевна < / a > < / div > Заместитель губернатора < div class =" person-text-org" > < span class =" label" > Организация < / span > < a href =" https : / / global-volgograd.ru / catalog / id / 160" title =" Администрация ( правительство ) Волгоградской области" > Администрация ( правительство ) Волгоградской област < / a > < / div > < div class =" button" >< a href =" https : / / global-volgograd.ru / person / id / 188" > Читать далее < / a >< / div > < / div > < div class =" person-position" > < div class =" position" > 9 < / div > < div class =" position-title" > Место < / div > < / div > < / div > < div class =" person-block" > < div class =" icon" > < a href =" https : / / global-volgograd.ru / person / id / 171" >< img src =" % D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BB%D1 . 
+	SAO
+	{
+		Name = ПИСЕМСКАЯ Анна Сергеевна
+	}
+	SAO
+	{
+		Name = ПИСЕМСКАЯ Анна Сергеевна
+	}
+	Chief
+	{
+		Name = Заместитель губернатора
+	}
+% 20%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0 / person-15650779560.jpg" alt =" ПОПКОВ Владимир Иванович" >< / a > < / div > < div class =" person-text" > < div class =" title" > < a href =" https : / / global-volgograd.ru / person / id / 171" > ПОПКОВ Владимир Иванович < / a > < / div > Заместитель губернатора < div class =" person-text-org" > < span class =" label" > Организация < / span > < a href =" https : / / global-volgograd.ru / catalog / id / 160" title =" Администрация ( правительство ) Волгоградской области" > Администрация ( правительство ) Волгоградской област < / a > < / div > < div class =" button" >< a href =" https : / / global-volgograd.ru / person / id / 171" > Читать далее < / a >< / div > < / div > < div class =" person-position" > < div class =" position" > 10 < / div > < div class =" position-title" > Место < / div > < / div > < / div > < div class =" baner-person-wrap" > 
+	SAO
+	{
+		Name = ПОПКОВ Владимир Иванович
+	}
+	SAO
+	{
+		Name = ПОПКОВ Владимир Иванович
+	}
+	Chief
+	{
+		Name = Заместитель губернатора
+	}
+- - advertisement 35 - - > < center >< script type =" text / javascript" > google_ad_client = "ca-pub-5153762079615820" ; google_ad_slot = "1775522318" ; google_ad_width = 728 ; google_ad_height = 90 ; < / script >< script type =" text / javascript" src =" % D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BB%D1 . 
+% 20%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0 / show_ads.js" >< / script >< ins id =" aswift_1_expand" style =" display:inline-table ; border:none ; height:90px ; margin:0 ; padding:0 ; position:relative ; visibility:visible ; width:706px ; background-color:transparent ; " data-ad-slot =" 1775522318" >< ins id =" aswift_1_anchor" style =" display:block ; border:none ; height:90px ; margin:0 ; padding:0 ; position:relative ; visibility:visible ; width:706px ; background-color:transparent ; ">< iframe id =" aswift_1" name =" aswift_1" style =" left:0 ; position:absolute ; top:0 ; border:0 ; width:706px ; height:90px ; " src =" % D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BB%D1 . 
+% 20%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0 / ads.html" marginwidth =" 0" marginheight =" 0" vspace =" 0" hspace =" 0" allowtransparency =" true" scrolling =" no" allowfullscreen =" true" data-google-container-id =" a ! 
+2" data-google-query-id =" CJbAq9zw2-kCFYyVmgodo6MFbg" data-load-complete =" true" width =" 706" height =" 90" frameborder =" 0" >< / iframe >< / ins >< / ins >< / center > < / div > < div class =" person-block" > < div class =" icon" > < a href =" https : / / global-volgograd.ru / person / id / 164" >< img src =" % D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BB%D1 . 
+% 20%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0 / person-15551461310.jpg" alt =" БЫКАДОРОВА Галина Викторовна" >< / a > < / div > < div class =" person-text" > < div class =" title" > < a href =" https : / / global-volgograd.ru / person / id / 164" > БЫКАДОРОВА Галина Викторовна < / a > < / div > Председатель комитета < div class =" person-text-org" > < span class =" label" > Организация < / span > < a href =" https : / / global-volgograd.ru / catalog / id / 324" title =" Комитет экономической политики и развития Волгоградской области" > Комитет экономической политики и развития Волгогра < / a > < / div > < div class =" button" >< a href =" https : / / global-volgograd.ru / person / id / 164" > Читать далее < / a >< / div > < / div > < div class =" person-position" > < div class =" position" > 11 < / div > < div class =" position-title" > Место < / div > < / div > < / div > < div class =" person-block" > < div class =" icon" > < a href =" https : / / global-volgograd.ru / person / id / 189" >< img src =" % D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BB%D1 . 
+	SAO
+	{
+		Name = БЫКАДОРОВА Галина Викторовна
+	}
+	SAO
+	{
+		Name = БЫКАДОРОВА Галина Викторовна
+	}
+	Chief
+	{
+		Name = Председатель комитета
+	}
+% 20%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0 / person-15893064990.jpg" alt =" АЛИМОВ Николай Николаевич" >< / a > < / div > < div class =" person-text" > < div class =" title" > < a href =" https : / / global-volgograd.ru / person / id / 189" > АЛИМОВ Николай Николаевич < / a > < / div > Заместитель председателя < div class =" person-text-org" > < span class =" label" > Организация < / span > < a href =" https : / / global-volgograd.ru / catalog / id / 247" title =" Комитет здравоохранения Волгоградской области" > Комитет здравоохранения Волгоградской области < / a > < / div > < div class =" button" >< a href =" https : / / global-volgograd.ru / person / id / 189" > Читать далее < / a >< / div > < / div > < div class =" person-position" > < div class =" position" > 12 < / div > < div class =" position-title" > Место < / div > < / div > < / div > < div class =" person-block" > < div class =" icon" > < a href =" https : / / global-volgograd.ru / person / id / 187" >< img src =" % D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BB%D1 . 
+	SAO
+	{
+		Name = АЛИМОВ Николай Николаевич
+	}
+	SAO
+	{
+		Name = АЛИМОВ Николай Николаевич
+	}
+	Chief
+	{
+		Name = Заместитель председателя
+	}
+% 20%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0 / person-15810234490.jpg" alt =" ЗМАНОВСКАЯ Ирина Михайловна" >< / a > < / div > < div class =" person-text" > < div class =" title" > < a href =" https : / / global-volgograd.ru / person / id / 187" > ЗМАНОВСКАЯ Ирина Михайловна < / a > < / div > Директор < div class =" person-text-org" > < span class =" label" > Организация < / span > < a href =" https : / / global-volgograd.ru / catalog / id / 1024" title =" Государственное казенное учреждение Волгоградской области "Многофункциональный центр предоставления государственных и муниципальных услуг" ( МФЦ )" > Государственное казенное учреждение Волгоградской < / a > < / div > < div class =" button" >< a href =" https : / / global-volgograd.ru / person / id / 187" > Читать далее < / a >< / div > < / div > < div class =" person-position" > < div class =" position" > 13 < / div > < div class =" position-title" > Место < / div > < / div > < / div > < div class =" person-block" > < div class =" icon" > < a href =" https : / / global-volgograd.ru / person / id / 186" >< img src =" % D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BB%D1 . 
+	Chief
+	{
+		Name = Директор
+	}
+% 20%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0 / person-15803805640.jpg" alt =" ЛОКТИОНОВ Дмитрий Павлович" >< / a > < / div > < div class =" person-text" > < div class =" title" > < a href =" https : / / global-volgograd.ru / person / id / 186" > ЛОКТИОНОВ Дмитрий Павлович < / a > < / div > Председатель комитета < div class =" person-text-org" > < span class =" label" > Организация < / span > < a href =" https : / / global-volgograd.ru / catalog / id / 699" title =" Комитет по труду и занятости населения Волгоградской области" > Комитет по труду и занятости населения Волгоградск < / a > < / div > < div class =" button" >< a href =" https : / / global-volgograd.ru / person / id / 186" > Читать далее < / a >< / div > < / div > < div class =" person-position" > < div class =" position" > 14 < / div > < div class =" position-title" > Место < / div > < / div > < / div > < div class =" person-block" > < div class =" icon" > < a href =" https : / / global-volgograd.ru / person / id / 185" >< img src =" % D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BB%D1 . 
+	SAO
+	{
+		Name = ЛОКТИОНОВ Дмитрий Павлович
+	}
+	SAO
+	{
+		Name = ЛОКТИОНОВ Дмитрий Павлович
+	}
+	Chief
+	{
+		Name = Председатель комитета
+	}
+% 20%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0 / person-15801437490.jpg" alt =" ШИБЧЕНКО Татьяна Викторовна" >< / a > < / div > < div class =" person-text" > < div class =" title" > < a href =" https : / / global-volgograd.ru / person / id / 185" > ШИБЧЕНКО Татьяна Викторовна < / a > < / div > Председатель центра < div class =" person-text-org" > < span class =" label" > Организация < / span > < a href =" https : / / global-volgograd.ru / catalog / id / 999" title =" Волгоградский Центр защиты и развития бизнеса "Дело" > Волгоградский Центр защиты и развития бизнеса "Дел < / a > < / div > < div class =" button" >< a href =" https : / / global-volgograd.ru / person / id / 185" > Читать далее < / a >< / div > < / div > < div class =" person-position" > < div class =" position" > 15 < / div > < div class =" position-title" > Место < / div > < / div > < / div > < div class =" baner-person-wrap" > 
+- - advertisement 36 - - > < center >< script type =" text / javascript" > google_ad_client = "ca-pub-5153762079615820" ; google_ad_slot = "1775522318" ; google_ad_width = 728 ; google_ad_height = 90 ; < / script >< script type =" text / javascript" src =" % D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BB%D1 . 
+% 20%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0 / show_ads.js" >< / script >< ins id =" aswift_2_expand" style =" display:inline-table ; border:none ; height:90px ; margin:0 ; padding:0 ; position:relative ; visibility:visible ; width:706px ; background-color:transparent ; " data-ad-slot =" 1775522318" >< ins id =" aswift_2_anchor" style =" display:block ; border:none ; height:90px ; margin:0 ; padding:0 ; position:relative ; visibility:visible ; width:706px ; background-color:transparent ; ">< / ins >< / ins >< / center > < / div > < div class =" person-block" > < div class =" icon" > < a href =" https : / / global-volgograd.ru / person / id / 183" >< img src =" % D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BB%D1 . 
+% 20%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0 / person-15771306190.jpg" alt =" КОШКАРЕВ Илья Альбертович" >< / a > < / div > < div class =" person-text" > < div class =" title" > < a href =" https : / / global-volgograd.ru / person / id / 183" > КОШКАРЕВ Илья Альбертович < / a > < / div > Депутат < div class =" person-text-org" > < span class =" label" > Организация < / span > < a href =" https : / / global-volgograd.ru / catalog / id / 246" title =" Волгоградская областная Дума" > Волгоградская областная Дума < / a > < / div > < div class =" button" >< a href =" https : / / global-volgograd.ru / person / id / 183" > Читать далее < / a >< / div > < / div > < div class =" person-position" > < div class =" position" > 16 < / div > < div class =" position-title" > Место < / div > < / div > < / div > < div class =" person-block" > < div class =" icon" > < a href =" https : / / global-volgograd.ru / person / id / 182" >< img src =" % D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BB%D1 . 
+	Chief
+	{
+		Name = Депутат
+	}
+% 20%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0 / person-15768796620.jpg" alt =" ЧУПАХИНА Анна Дмитриевна" >< / a > < / div > < div class =" person-text" > < div class =" title" > < a href =" https : / / global-volgograd.ru / person / id / 182" > ЧУПАХИНА Анна Дмитриевна < / a > < / div > Председатель комитета < div class =" person-text-org" > < span class =" label" > Организация < / span > < a href =" https : / / global-volgograd.ru / catalog / id / 705" title =" Комитет по регулированию контрактной системы в сфере закупок Волгоградской области" > Комитет по регулированию контрактной системы в сфе < / a > < / div > < div class =" button" >< a href =" https : / / global-volgograd.ru / person / id / 182" > Читать далее < / a >< / div > < / div > < div class =" person-position" > < div class =" position" > 17 < / div > < div class =" position-title" > Место < / div > < / div > < / div > < div class =" person-block" > < div class =" icon" > < a href =" https : / / global-volgograd.ru / person / id / 181" >< img src =" % D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BB%D1 . 
+	Chief
+	{
+		Name = Председатель комитета
+	}
+% 20%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0 / person-15768791380.jpg" alt =" БАХИН Валерий Викторович" >< / a > < / div > < div class =" person-text" > < div class =" title" > < a href =" https : / / global-volgograd.ru / person / id / 181" > БАХИН Валерий Викторович < / a > < / div > Заместитель губернатора < div class =" person-text-org" > < span class =" label" > Организация < / span > < a href =" https : / / global-volgograd.ru / catalog / id / 160" title =" Администрация ( правительство ) Волгоградской области" > Администрация ( правительство ) Волгоградской област < / a > < / div > < div class =" button" >< a href =" https : / / global-volgograd.ru / person / id / 181" > Читать далее < / a >< / div > < / div > < div class =" person-position" > < div class =" position" > 18 < / div > < div class =" position-title" > Место < / div > < / div > < / div > < div class =" person-block" > < div class =" icon" > < a href =" https : / / global-volgograd.ru / person / id / 180" >< img src =" % D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BB%D1 . 
+	Chief
+	{
+		Name = Заместитель губернатора
+	}
+% 20%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0 / person-15755613580.jpg" alt =" ГИМБАТОВ Андрей Петрович" >< / a > < / div > < div class =" person-text" > < div class =" title" > < a href =" https : / / global-volgograd.ru / person / id / 180" > ГИМБАТОВ Андрей Петрович < / a > < / div > Депутат < div class =" person-text-org" > < span class =" label" > Организация < / span > < a href =" https : / / global-volgograd.ru / catalog / id / 39" title =" Волгоградская городская Дума" > Волгоградская городская Дума < / a > < / div > < div class =" button" >< a href =" https : / / global-volgograd.ru / person / id / 180" > Читать далее < / a >< / div > < / div > < div class =" person-position" > < div class =" position" > 19 < / div > < div class =" position-title" > Место < / div > < / div > < / div > < div class =" person-block" > < div class =" icon" > < a href =" https : / / global-volgograd.ru / person / id / 179" >< img src =" % D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BB%D1 . 
+	SAO
+	{
+		Name = ГИМБАТОВ Андрей Петрович
+	}
+	SAO
+	{
+		Name = ГИМБАТОВ Андрей Петрович
+	}
+	Chief
+	{
+		Name = Депутат
+	}
+% 20%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0 / person-15755601960.jpg" alt =" КРЫЛОВ Дмитрий Вадимович" >< / a > < / div > < div class =" person-text" > < div class =" title" > < a href =" https : / / global-volgograd.ru / person / id / 179" > КРЫЛОВ Дмитрий Вадимович < / a > < / div > Депутат < div class =" person-text-org" > < span class =" label" > Организация < / span > < a href =" https : / / global-volgograd.ru / catalog / id / 39" title =" Волгоградская городская Дума" > Волгоградская городская Дума < / a > < / div > < div class =" button" >< a href =" https : / / global-volgograd.ru / person / id / 179" > Читать далее < / a >< / div > < / div > < div class =" person-position" > < div class =" position" > 20 < / div > < div class =" position-title" > Место < / div > < / div > < / div > < div class =" baner-person-wrap" > 
+	SAO
+	{
+		Name = КРЫЛОВ Дмитрий Вадимович
+	}
+	SAO
+	{
+		Name = КРЫЛОВ Дмитрий Вадимович
+	}
+	Chief
+	{
+		Name = Депутат
+	}
+- - advertisement 36 - - > < center >< script type =" text / javascript" > google_ad_client = "ca-pub-5153762079615820" ; google_ad_slot = "1775522318" ; google_ad_width = 728 ; google_ad_height = 90 ; < / script >< script type =" text / javascript" src =" % D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BB%D1 . 
+% 20%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0 / show_ads.js" >< / script >< ins id =" aswift_3_expand" style =" display:inline-table ; border:none ; height:90px ; margin:0 ; padding:0 ; position:relative ; visibility:visible ; width:706px ; background-color:transparent ; " data-ad-slot =" 1775522318" >< ins id =" aswift_3_anchor" style =" display:block ; border:none ; height:90px ; margin:0 ; padding:0 ; position:relative ; visibility:visible ; width:706px ; background-color:transparent ; ">< / ins >< / ins >< / center > < / div > < div class =" pager" > < ul class =" pager-list" > 
+< li class =" pager-previous" >< i >< / i >< / li > 
+< li class =" pager-item" >< b>1 < / b >< / li > < li class =" pager-item" >< a href =" https : / / global-volgograd.ru / person ? offset=20" > 2 < / a >< / li > < li class =" pager-item" >< a href =" https : / / global-volgograd.ru / person ? offset=40" > 3 < / a >< / li > < li class =" pager-item" >< a href =" https : / / global-volgograd.ru / person ? offset=60" > 4 < / a >< / li > < li class =" pager-item" >< a href =" https : / / global-volgograd.ru / person ? offset=80" > 5 < / a >< / li > < li class =" pager-item" >< a href =" https : / / global-volgograd.ru / person ? offset=100" > 6 < / a >< / li > < li class =" pager-item" >< a href =" https : / / global-volgograd.ru / person ? offset=120" > 7 < / a >< / li > < li class =" pager-item" >< a href =" https : / / global-volgograd.ru / person ? offset=140" > 8 < / a >< / li > < li class =" pager-item" >< a href =" https : / / global-volgograd.ru / person ? offset=160" > 9 < / a >< / li > 
+< li class =" pager-next" >< a href =" https : / / global-volgograd.ru / person ? offset=20" >< / a >< / li > < / ul > < / div > 
+< div class =" main-vacancies rs-blocks catalog-rating person-catalog-block" > < div class =" rs-blocks-title" > < div class =" title" > Рейтинг компаний < / div > < / div > < div class =" main-catalog-slider slick-initialized slick-slider" >< button type =" button" data-role =" none" class =" slick-prev slick-arrow" aria-label =" Previous" role =" button" style =" display : block ; "> Previous < / button > 
+< div aria-live =" polite" class =" slick-list draggable" >< div class =" slick-track" style =" opacity : 1 ; width : 7596px ; transform : translate3d ( - 633px , 0px , 0px ) ; " role =" listbox" >< div class =" main-vacancies-item catalog-slide-item slick-slide slick-cloned" style =" width : 613px ; " data-slick-index =" - 1" aria-hidden =" true" tabindex =" - 1" > < div class =" vacancies-item-img" >< a href =" https : / / global-volgograd.ru / catalog / id / 384" tabindex =" - 1" >< img src =" % D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BB%D1 . 
+% 20%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0 / 190-14129234030.jpg" alt =" Управление Федеральной антимонопольной службы по Волгоградской области" width =" 100" height =" 100" >< / a >< / div > < div class =" catalog-item-wrap" > < div class =" vacancies-item-title catalog-item-title" >< a href =" https : / / global-volgograd.ru / catalog / id / 384" tabindex =" - 1" > Управление Федеральной антимонопольной службы по В < / a >< / div > < div class =" vacancies-item-salary catalog-item-salary" > 2 персон < / div > < / div > < / div >< div class =" main-vacancies-item catalog-slide-item slick-slide slick-current slick-active" style =" width : 613px ; " data-slick-index =" 0" aria-hidden =" false" tabindex =" - 1" role =" option" aria-describedby =" slick-slide00" > < div class =" vacancies-item-img" >< a href =" https : / / global-volgograd.ru / catalog / id / 39" tabindex =" 0" >< img src =" % D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BB%D1 . 
+% 20%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0 / 190-14255657440.jpg" alt =" Волгоградская городская Дума" width =" 100" height =" 100" >< / a >< / div > < div class =" catalog-item-wrap" > < div class =" vacancies-item-title catalog-item-title" >< a href =" https : / / global-volgograd.ru / catalog / id / 39" tabindex =" 0" > Волгоградская городская Дума < / a >< / div > < div class =" vacancies-item-salary catalog-item-salary" > 54 персон < / div > < / div > < / div >< div class =" main-vacancies-item catalog-slide-item slick-slide" style =" width : 613px ; " data-slick-index =" 1" aria-hidden =" true" tabindex =" - 1" role =" option" aria-describedby =" slick-slide01" > < div class =" vacancies-item-img" >< a href =" https : / / global-volgograd.ru / catalog / id / 160" tabindex =" - 1" >< img src =" % D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BB%D1 . 
+% 20%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0 / catalog-15811128680.jpg" alt =" Администрация ( правительство ) Волгоградской области" width =" 100" height =" 100" >< / a >< / div > < div class =" catalog-item-wrap" > < div class =" vacancies-item-title catalog-item-title" >< a href =" https : / / global-volgograd.ru / catalog / id / 160" tabindex =" - 1" > Администрация ( правительство ) Волгоградской област < / a >< / div > < div class =" vacancies-item-salary catalog-item-salary" > 22 персон < / div > < / div > < / div >< div class =" main-vacancies-item catalog-slide-item slick-slide" style =" width : 613px ; " data-slick-index =" 2" aria-hidden =" true" tabindex =" - 1" role =" option" aria-describedby =" slick-slide02" > < div class =" vacancies-item-img" >< a href =" https : / / global-volgograd.ru / catalog / id / 246" tabindex =" - 1" >< img src =" % D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BB%D1 . 
+% 20%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0 / 148-13865624590.jpg" alt =" Волгоградская областная Дума" width =" 100" height =" 100" >< / a >< / div > < div class =" catalog-item-wrap" > < div class =" vacancies-item-title catalog-item-title" >< a href =" https : / / global-volgograd.ru / catalog / id / 246" tabindex =" - 1" > Волгоградская областная Дума < / a >< / div > < div class =" vacancies-item-salary catalog-item-salary" > 14 персон < / div > < / div > < / div >< div class =" main-vacancies-item catalog-slide-item slick-slide" style =" width : 613px ; " data-slick-index =" 3" aria-hidden =" true" tabindex =" - 1" role =" option" aria-describedby =" slick-slide03" > < div class =" vacancies-item-img" >< a href =" https : / / global-volgograd.ru / catalog / id / 55" tabindex =" - 1" >< img src =" % D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BB%D1 . 
+% 20%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0 / 0.html" alt =" Сады Придонья" width =" 100" height =" 100" >< / a >< / div > < div class =" catalog-item-wrap" > < div class =" vacancies-item-title catalog-item-title" >< a href =" https : / / global-volgograd.ru / catalog / id / 55" tabindex =" - 1" > Сады Придонья < / a >< / div > < div class =" vacancies-item-salary catalog-item-salary" > 9 персон < / div > < / div > < / div >< div class =" main-vacancies-item catalog-slide-item slick-slide" style =" width : 613px ; " data-slick-index =" 4" aria-hidden =" true" tabindex =" - 1" role =" option" aria-describedby =" slick-slide04" > < div class =" vacancies-item-img" >< a href =" https : / / global-volgograd.ru / catalog / id / 162" tabindex =" - 1" >< img src =" % D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BB%D1 . 
+% 20%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0 / 91-13258698150.jpg" alt =" Администрация города Волгограда" width =" 100" height =" 100" >< / a >< / div > < div class =" catalog-item-wrap" > < div class =" vacancies-item-title catalog-item-title" >< a href =" https : / / global-volgograd.ru / catalog / id / 162" tabindex =" - 1" > Администрация города Волгограда < / a >< / div > < div class =" vacancies-item-salary catalog-item-salary" > 9 персон < / div > < / div > < / div >< div class =" main-vacancies-item catalog-slide-item slick-slide" style =" width : 613px ; " data-slick-index =" 5" aria-hidden =" true" tabindex =" - 1" role =" option" aria-describedby =" slick-slide05" > < div class =" vacancies-item-img" >< a href =" https : / / global-volgograd.ru / catalog / id / 32" tabindex =" - 1" >< img src =" % D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BB%D1 . 
+% 20%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0 / catalog-15803870950.jpg" alt =" Союз "Волгоградская торгово-промышленная палата" width =" 100" height =" 100" >< / a >< / div > < div class =" catalog-item-wrap" > < div class =" vacancies-item-title catalog-item-title" >< a href =" https : / / global-volgograd.ru / catalog / id / 32" tabindex =" - 1" > Союз "Волгоградская торгово-промышленная палата" < / a >< / div > < div class =" vacancies-item-salary catalog-item-salary" > 4 персон < / div > < / div > < / div >< div class =" main-vacancies-item catalog-slide-item slick-slide" style =" width : 613px ; " data-slick-index =" 6" aria-hidden =" true" tabindex =" - 1" role =" option" aria-describedby =" slick-slide06" > < div class =" vacancies-item-img" >< a href =" https : / / global-volgograd.ru / catalog / id / 41" tabindex =" - 1" >< img src =" % D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BB%D1 . 
+% 20%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0 / 34-12585369920.jpg" alt =" Прокуратура Волгоградской области" width =" 100" height =" 100" >< / a >< / div > < div class =" catalog-item-wrap" > < div class =" vacancies-item-title catalog-item-title" >< a href =" https : / / global-volgograd.ru / catalog / id / 41" tabindex =" - 1" > Прокуратура Волгоградской области < / a >< / div > < div class =" vacancies-item-salary catalog-item-salary" > 2 персон < / div > < / div > < / div >< div class =" main-vacancies-item catalog-slide-item slick-slide" style =" width : 613px ; " data-slick-index =" 7" aria-hidden =" true" tabindex =" - 1" role =" option" aria-describedby =" slick-slide07" > < div class =" vacancies-item-img" >< a href =" https : / / global-volgograd.ru / catalog / id / 45" tabindex =" - 1" >< img src =" % D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BB%D1 . 
+% 20%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0 / 0.html" alt =" Деловая Россия" width =" 100" height =" 100" >< / a >< / div > < div class =" catalog-item-wrap" > < div class =" vacancies-item-title catalog-item-title" >< a href =" https : / / global-volgograd.ru / catalog / id / 45" tabindex =" - 1" > Деловая Россия < / a >< / div > < div class =" vacancies-item-salary catalog-item-salary" > 2 персон < / div > < / div > < / div >< div class =" main-vacancies-item catalog-slide-item slick-slide" style =" width : 613px ; " data-slick-index =" 8" aria-hidden =" true" tabindex =" - 1" role =" option" aria-describedby =" slick-slide08" > < div class =" vacancies-item-img" >< a href =" https : / / global-volgograd.ru / catalog / id / 324" tabindex =" - 1" >< img src =" % D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BB%D1 . 
+% 20%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0 / 242-15355678940.jpg" alt =" Комитет экономической политики и развития Волгоградской области" width =" 100" height =" 100" >< / a >< / div > < div class =" catalog-item-wrap" > < div class =" vacancies-item-title catalog-item-title" >< a href =" https : / / global-volgograd.ru / catalog / id / 324" tabindex =" - 1" > Комитет экономической политики и развития Волгогра < / a >< / div > < div class =" vacancies-item-salary catalog-item-salary" > 2 персон < / div > < / div > < / div >< div class =" main-vacancies-item catalog-slide-item slick-slide" style =" width : 613px ; " data-slick-index =" 9" aria-hidden =" true" tabindex =" - 1" role =" option" aria-describedby =" slick-slide09" > < div class =" vacancies-item-img" >< a href =" https : / / global-volgograd.ru / catalog / id / 384" tabindex =" - 1" >< img src =" % D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BB%D1 . 
+% 20%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0 / 190-14129234030.jpg" alt =" Управление Федеральной антимонопольной службы по Волгоградской области" width =" 100" height =" 100" >< / a >< / div > < div class =" catalog-item-wrap" > < div class =" vacancies-item-title catalog-item-title" >< a href =" https : / / global-volgograd.ru / catalog / id / 384" tabindex =" - 1" > Управление Федеральной антимонопольной службы по В < / a >< / div > < div class =" vacancies-item-salary catalog-item-salary" > 2 персон < / div > < / div > < / div >< div class =" main-vacancies-item catalog-slide-item slick-slide slick-cloned" style =" width : 613px ; " data-slick-index =" 10" aria-hidden =" true" tabindex =" - 1" > < div class =" vacancies-item-img" >< a href =" https : / / global-volgograd.ru / catalog / id / 39" tabindex =" - 1" >< img src =" % D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BB%D1 . 
+% 20%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0 / 190-14255657440.jpg" alt =" Волгоградская городская Дума" width =" 100" height =" 100" >< / a >< / div > < div class =" catalog-item-wrap" > < div class =" vacancies-item-title catalog-item-title" >< a href =" https : / / global-volgograd.ru / catalog / id / 39" tabindex =" - 1" > Волгоградская городская Дума < / a >< / div > < div class =" vacancies-item-salary catalog-item-salary" > 54 персон < / div > < / div > < / div >< / div >< / div >< button type =" button" data-role =" none" class =" slick-next slick-arrow" aria-label =" Next" role =" button" style =" display : block ; "> Next < / button >< / div > < / div > < / div > < / div > < / div > < div class =" right-sidebar" > < div class =" rat-employer rs-blocks vacancy-rs-block" > < div class =" rs-blocks-title" > < div class =" title vacancy-rs-title" > Категории < / div > < / div > < ul class =" vacancy-rs-rubric" > < li >< a href =" https : / / global-volgograd.ru / person / cat / 1" > Политика и администрация < / a >< / li > < li >< a href =" https : / / global-volgograd.ru / person / cat / 2" > Почетные жители города Волгограда < / a >< / li > < li >< a href =" https : / / global-volgograd.ru / person / cat / 3" > Бизнес < / a >< / li > < li >< a href =" https : / / global-volgograd.ru / person / cat / 4" > Спорт < / a >< / li > < li >< a href =" https : / / global-volgograd.ru / person / cat / 5" > Культура и образование < / a >< / li > < li >< a href =" https : / / global-volgograd.ru / person / cat / 6" > Журналистика < / a >< / li > < li >< a href =" https : / / global-volgograd.ru / person / cat / 7" > Медицина < / a >< / li > < li >< a href =" https : / / global-volgograd.ru / person / cat / 8" > IT технологии < / a >< / li > < / ul > < / div > < div class =" job-prof-block" > < div class =" job-prof-title" > < div class =" job-prof-title-item" > Должности < / div > < / div > < ul class =" job-prof-list" > < li >< a href =" https : / / global-volgograd.ru / person / cat / 0 / 323" > Депутат < / a >< / li > < li >< a href =" https : / / global-volgograd.ru / person / cat / 0 / 65" > Директор < / a >< / li > < li >< a href =" https : / / global-volgograd.ru / person / cat / 0 / 331" > Председатель комитета < / a >< / li > < li >< a href =" https : / / global-volgograd.ru / person / cat / 0 / 53" > Генеральный директор < / a >< / li > < li >< a href =" https : / / global-volgograd.ru / person / cat / 0 / 322" > Заместитель руководителя < / a >< / li > < li >< a href =" https : / / global-volgograd.ru / person / cat / 0 / 330" > Заместитель губернатора < / a >< / li > < li >< a href =" https : / / global-volgograd.ru / person / cat / 0 / 326" > Заместитель председателя < / a >< / li > < li >< a href =" https : / / global-volgograd.ru / person / cat / 0 / 264" > Руководитель < / a >< / li > < li >< a href =" https : / / global-volgograd.ru / person / cat / 0 / 1" > Президент < / a >< / li > < li >< a href =" https : / / global-volgograd.ru / person / cat / 0 / 201" > Начальник < / a >< / li > < li >< a href =" https : / / global-volgograd.ru / person / cat / 0 / 327" > Управляющий < / a >< / li > < li >< a href =" https : / / global-volgograd.ru / person / cat / 0 / 280" > Сити-менеджер < / a >< / li > < li >< a href =" https : / / global-volgograd.ru / person / cat / 0 / 304" > Финансовый директор < / a >< / li > < li >< a href =" https : / / global-volgograd.ru / person / cat / 0 / 321" > Главный архитектор < / a >< / li > < li >< a href =" https : / / global-volgograd.ru / person / cat / 0 / 324" > Бизнес-омбудсмен < / a >< / li > < / ul > < / div > < div class =" right-banner-240x400" style =" margin-top:20px ; "> < ! 
+	Chief
+	{
+		Name = Депутат
+	}
+	Chief
+	{
+		Name = Директор
+	}
+	Chief
+	{
+		Name = Председатель комитета
+	}
+	Chief
+	{
+		Name = директор
+	}
+	Chief
+	{
+		Name = Заместитель губернатора
+	}
+	Chief
+	{
+		Name = Заместитель председателя
+	}
+	Chief
+	{
+		Name = директор
+	}
+- - advertisement 33 - - > < center >< script async =" src =" % D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BB%D1 . 
+% 20%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0 / adsbygoogle.js" >< / script > < ! 
+- - 240 C1 - - > < ins class =" adsbygoogle" style =" display:inline-block ; width:240px ; height:400px" data-ad-client =" ca-pub-5153762079615820" data-ad-slot =" 7861992674" data-adsbygoogle-status =" done" >< ins id =" aswift_5_expand" style =" display:inline-table ; border:none ; height:400px ; margin:0 ; padding:0 ; position:relative ; visibility:visible ; width:240px ; background-color:transparent ; ">< ins id =" aswift_5_anchor" style =" display:block ; border:none ; height:400px ; margin:0 ; padding:0 ; position:relative ; visibility:visible ; width:240px ; background-color:transparent ; ">< / ins >< / ins >< / ins > < script > ( adsbygoogle = window.adsbygoogle | | [] ) . push ( {} ) ; < / script >< / center >< / div > < div class =" block-citations rs-blocks" > < div class =" rs-blocks-title" > < div class =" title" > Цитаты < / div > < a href =" https : / / global-volgograd.ru / quotes" > Все < / a > < / div > < div class =" header-citations" > < div class =" header-citations-img" >< img src =" % D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BB%D1 . 
+% 20%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0 / 34-14242034230.jpg" alt =" БОЧАРОВ Андрей Иванович" >< / div > < div class =" header-citations-title" >< a href =" https : / / global-volgograd.ru / news / id / 4548" > Бочаров : технологические решения позволяют создавать развивающие площадки для детей < / a >< / div > < div class =" header-citations-name" >< a href =" https : / / global-volgograd.ru / person / id / 104" > БОЧАРОВ Андрей Иванович < / a >< / div > < / div > < div class =" citations-cont" > < div class =" mini-quote1" >< img src =" % D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BB%D1 . 
+	SAO
+	{
+		Name = БОЧАРОВ Андрей Иванович
+	}
+	SAO
+	{
+		Name = Бочаров
+	}
+	SAO
+	{
+		Name = БОЧАРОВ Андрей Иванович
+	}
+% 20%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0 / q1.png" alt =" >< / div > < div class =" mini-quote2" >< img src =" % D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BB%D1 . 
+% 20%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0 / q2.png" alt =" >< / div > < div class =" citations-cont-text" > Был проведён достаточно сложный эксперимент , заключавшийся в реконструкции и достройке данного объекта с задействованием технологических решений современного типа . 
+Данный подход позволил сформировать полноценное развивающее пространство для детей . 
+Такая практика является эффектив < / div > < / div > < / div > < div class =" news-main last-firmnews-block" > < div class =" title-main" > < div class =" title" > Пресс-релизы < / div > < div class =" all" >< a href =" https : / / global-volgograd.ru / firmnews" > Все < / a >< / div > < / div > < div class =" news news1" > < a href =" https : / / global-volgograd.ru / firmnews / id / 4831" >< img src =" % D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BB%D1 . 
+% 20%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0 / big-firmnews-15548024040.jpg" alt =" width =" 256" height =" 173" >< / a > < div class =" data-main" > 6 мая 2019 года < / div > < div class =" text" >< a href =" https : / / global-volgograd.ru / firmnews / id / 4831" > Тинькофф Бизнес - экосистема банковских продуктов для предпринимателей < / a >< / div > < / div > < div class =" news news1" > < a href =" https : / / global-volgograd.ru / firmnews / id / 4827" >< img src =" % D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BB%D1 . 
+% 20%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0 / big-firmnews-15566284520.jpg" alt =" width =" 256" height =" 173" >< / a > < div class =" data-main" > 30 апреля 2019 года < / div > < div class =" text" >< a href =" https : / / global-volgograd.ru / firmnews / id / 4827" > Мегаплан — система управления бизнесом < / a >< / div > < / div > < / div > < div class =" news-main last-firmnews-block" > < div class =" title-main" > < div class =" title" > Новости < / div > < div class =" all" >< a href =" https : / / global-volgograd.ru / news" > Все < / a >< / div > < / div > < div class =" news news1" > < a href =" https : / / global-volgograd.ru / news / id / 4570" >< img src =" % D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BB%D1 . 
+% 20%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0 / bignews-15907886460.jpg" alt =" width =" 256" height =" 173" >< / a > < div class =" data-main" > 30 мая 2020 года < / div > < div class =" text" >< a href =" https : / / global-volgograd.ru / news / id / 4570" > В России самозанятым вернут 1,6 млрд рублей в виде налога на профдоход < / a >< / div > < / div > < div class =" news news1" > < a href =" https : / / global-volgograd.ru / news / id / 4569" >< img src =" % D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BB%D1 . 
+% 20%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0 / bignews-15907646890.jpg" alt =" width =" 256" height =" 173" >< / a > < div class =" data-main" > 29 мая 2020 года < / div > < div class =" text" >< a href =" https : / / global-volgograd.ru / news / id / 4569" >" Ростех" призвал не урезать госфинансирование развития 5G в РФ < / a >< / div > < / div > < / div > < div class =" block-persons rs-blocks" > < div class =" rs-blocks-title" > < div class =" title" > Свежие персоны < / div > < a href =" https : / / global-volgograd.ru / person" > Все < / a > < / div > < div class =" person" > < div class =" person-img" >< a href =" https : / / global-volgograd.ru / person / id / 189" >< img src =" % D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BB%D1 . 
+% 20%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0 / person-15893064990.jpg" alt =" АЛИМОВ Николай Николаевич" width =" 50" >< / a >< / div > < div class =" person-name" >< a href =" https : / / global-volgograd.ru / person / id / 189" > АЛИМОВ Николай Николаевич < / a >< / div > < div class =" person-pos" > Заместитель председателя комитета здравоохранения Волгоградской области < / div > < / div > < div class =" person" > < div class =" person-img" >< a href =" https : / / global-volgograd.ru / person / id / 188" >< img src =" % D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BB%D1 . 
+	SAO
+	{
+		Name = АЛИМОВ Николай Николаевич
+	}
+	SAO
+	{
+		Name = АЛИМОВ Николай Николаевич
+	}
+	Chief
+	{
+		Name = председатель комитета
+	}
+% 20%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0 / person-15878998710.jpg" alt =" ПИСЕМСКАЯ Анна Сергеевна" width =" 50" >< / a >< / div > < div class =" person-name" >< a href =" https : / / global-volgograd.ru / person / id / 188" > ПИСЕМСКАЯ Анна Сергеевна < / a >< / div > < div class =" person-pos" > Заместитель Губернатора Волгоградской области < / div > < / div > < div class =" person" > < div class =" person-img" >< a href =" https : / / global-volgograd.ru / person / id / 187" >< img src =" % D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BB%D1 . 
+	SAO
+	{
+		Name = ПИСЕМСКАЯ Анна Сергеевна
+	}
+	SAO
+	{
+		Name = ПИСЕМСКАЯ Анна Сергеевна
+	}
+	Chief
+	{
+		Name = Заместитель Губернатора
+	}
+% 20%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0 / person-15810234490.jpg" alt =" ЗМАНОВСКАЯ Ирина Михайловна" width =" 50" >< / a >< / div > < div class =" person-name" >< a href =" https : / / global-volgograd.ru / person / id / 187" > ЗМАНОВСКАЯ Ирина Михайловна < / a >< / div > < div class =" person-pos" > Директор Государственного казенного учреждения Волгоградской области "Многофункциональный центр предоставления государственных и муниципальных услуг" < / div > < / div > < div class =" person" > < div class =" person-img" >< a href =" https : / / global-volgograd.ru / person / id / 186" >< img src =" % D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BB%D1 . 
+	Chief
+	{
+		Name = Директор
+	}
+% 20%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0 / person-15803805640.jpg" alt =" ЛОКТИОНОВ Дмитрий Павлович" width =" 50" >< / a >< / div > < div class =" person-name" >< a href =" https : / / global-volgograd.ru / person / id / 186" > ЛОКТИОНОВ Дмитрий Павлович < / a >< / div > < div class =" person-pos" > Председатель комитета по труду и занятости населения Волгоградской области < / div > < / div > < div class =" person" > < div class =" person-img" >< a href =" https : / / global-volgograd.ru / person / id / 185" >< img src =" % D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BB%D1 . 
+	SAO
+	{
+		Name = ЛОКТИОНОВ Дмитрий Павлович
+	}
+	SAO
+	{
+		Name = ЛОКТИОНОВ Дмитрий Павлович
+	}
+	Chief
+	{
+		Name = Председатель комитета
+	}
+% 20%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0 / person-15801437490.jpg" alt =" ШИБЧЕНКО Татьяна Викторовна" width =" 50" >< / a >< / div > < div class =" person-name" >< a href =" https : / / global-volgograd.ru / person / id / 185" > ШИБЧЕНКО Татьяна Викторовна < / a >< / div > < div class =" person-pos" > Председатель Волгоградского Центра защиты и развития бизнеса "Дело" < / div > < / div > < / div > < div class =" block-persons rs-blocks" > < div class =" rs-blocks-title" > < div class =" title" > Популярные & nbsp ; персоны < / div > < a href =" https : / / global-volgograd.ru / person" > Все < / a > < / div > < div class =" person" > < div class =" person-img" >< a href =" https : / / global-volgograd.ru / person / id / 104" >< img src =" % D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BB%D1 . 
+% 20%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0 / 34-14242034230.jpg" alt =" БОЧАРОВ Андрей Иванович" width =" 50" >< / a >< / div > < div class =" person-name" >< a href =" https : / / global-volgograd.ru / person / id / 104" > БОЧАРОВ Андрей Иванович < / a >< / div > < div class =" person-pos" > Губернатор < / div > < / div > < div class =" person" > < div class =" person-img" >< a href =" https : / / global-volgograd.ru / person / id / 169" >< img src =" % D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BB%D1 . 
+	SAO
+	{
+		Name = БОЧАРОВ Андрей Иванович
+	}
+	SAO
+	{
+		Name = БОЧАРОВ Андрей Иванович
+	}
+	Chief
+	{
+		Name = Губернатор
+	}
+% 20%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0 / person-15640587870.jpg" alt =" МЕРЖОЕВА Зина Османовна" width =" 50" >< / a >< / div > < div class =" person-name" >< a href =" https : / / global-volgograd.ru / person / id / 169" > МЕРЖОЕВА Зина Османовна < / a >< / div > < div class =" person-pos" > Заместитель Губернатора Волгоградской области < / div > < / div > < div class =" person" > < div class =" person-img" >< a href =" https : / / global-volgograd.ru / person / id / 188" >< img src =" % D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BB%D1 . 
+	Chief
+	{
+		Name = Заместитель Губернатора
+	}
+% 20%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0 / person-15878998710.jpg" alt =" ПИСЕМСКАЯ Анна Сергеевна" width =" 50" >< / a >< / div > < div class =" person-name" >< a href =" https : / / global-volgograd.ru / person / id / 188" > ПИСЕМСКАЯ Анна Сергеевна < / a >< / div > < div class =" person-pos" > Заместитель Губернатора Волгоградской области < / div > < / div > < div class =" person" > < div class =" person-img" >< a href =" https : / / global-volgograd.ru / person / id / 189" >< img src =" % D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BB%D1 . 
+	SAO
+	{
+		Name = ПИСЕМСКАЯ Анна Сергеевна
+	}
+	SAO
+	{
+		Name = ПИСЕМСКАЯ Анна Сергеевна
+	}
+	Chief
+	{
+		Name = Заместитель Губернатора
+	}
+% 20%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0 / person-15893064990.jpg" alt =" АЛИМОВ Николай Николаевич" width =" 50" >< / a >< / div > < div class =" person-name" >< a href =" https : / / global-volgograd.ru / person / id / 189" > АЛИМОВ Николай Николаевич < / a >< / div > < div class =" person-pos" > Заместитель председателя комитета здравоохранения Волгоградской области < / div > < / div > < div class =" person" > < div class =" person-img" >< a href =" https : / / global-volgograd.ru / person / id / 1" >< img src =" % D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BB%D1 . 
+	SAO
+	{
+		Name = АЛИМОВ Николай Николаевич
+	}
+	SAO
+	{
+		Name = АЛИМОВ Николай Николаевич
+	}
+	Chief
+	{
+		Name = председатель комитета
+	}
+% 20%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0 / 34-12574109090.jpg" alt =" ГРЕБЕННИКОВ Роман Георгиевич" width =" 50" >< / a >< / div > < div class =" person-name" >< a href =" https : / / global-volgograd.ru / person / id / 1" > ГРЕБЕННИКОВ Роман Георгиевич < / a >< / div > < div class =" person-pos" > Первый заместитель председателя правительства Волгоградской области < / div > < / div > < / div > < div class =" news-main last-vacancy-block" > < div class =" title-main" > < div class =" title" > Свежие вакансии < / div > < div class =" all" >< a href =" https : / / global-volgograd.ru / vacancy" > Все < / a >< / div > < / div > < div class =" news" > < div class =" data-main data-main-news" > 21 мая 2019 года < / div > < div class =" text" >< a href =" https : / / global-volgograd.ru / vacancy / id / 213" > Региональный менеджер по продажам рекламы ( удаленная работа ) < / a >< / div > < / div > < div class =" news" > < div class =" data-main data-main-news" > 16 июня 2017 года < / div > < div class =" text" >< a href =" https : / / global-volgograd.ru / vacancy / id / 212" > Управляющий , директор магазина < / a >< / div > < / div > < div class =" news" > < div class =" data-main data-main-news" > 7 июня 2017 года < / div > < div class =" text" >< a href =" https : / / global-volgograd.ru / vacancy / id / 211" > Специалист по кредитованию < / a >< / div > < / div > < div class =" news" > < div class =" data-main data-main-news" > 16 октября 2016 года < / div > < div class =" text" >< a href =" https : / / global-volgograd.ru / vacancy / id / 210" > Начальник отдела продаж < / a >< / div > < / div > < div class =" news" > < div class =" data-main data-main-news" > 16 октября 2016 года < / div > < div class =" text" >< a href =" https : / / global-volgograd.ru / vacancy / id / 209" > Начальник отдела продаж < / a >< / div > < / div > < div class =" add-work-but-blue" onclick =" location.href = 'https : / / global-volgograd.ru / client / job / add" >+ Добавить вакансию < / div > < / div > < / div > < div class =" block-main-bottom" > < div class =" block-bottom-text" > < h2>ДЕЛОВЫЕ ЛЮДИ ВОЛГОГРАДА < / h2 >< br > < div > ГлобалВОЛГОГРАД . ру уделяет особое внимание деятельности известных персон : политиков , чиновников , бизнесменов , банкиров , деятелей культуры и спорта . 
+	SAO
+	{
+		Name = ГРЕБЕННИКОВ Роман Георгиевич
+	}
+	SAO
+	{
+		Name = ГРЕБЕННИКОВ Роман Георгиевич
+	}
+	Chief
+	{
+		Name = заместитель председателя
+	}
+	Chief
+	{
+		Name = директор
+	}
+Их мнение во многом определяет развитие политической , общественной и экономической жизни Волгограда и Волгоградской области . 
+Раздел постоянно редактируется нашими журналистами на предмет актуальности информации . 
+Здесь можно найти информацию о генеральных директорах и президентах топовых волгоградских компаний , чиновниках и общественных деятелях , которые играют ключевую роль в развитии региона . 
+< / div > < div>Цель проекта – создать комфортное информационное пространство для всех субъектов рынка , а также познакомить читательскую аудиторию с деловыми людьми Волгограда . 
+< / div > < div>Мы создали внушительную базу персон в Волгограде , в которой содержится информация о карьерном пути , образовании и другие важные сведения о человеке . 
+< / div > < div>Благодаря автоматическому подсчету количества упоминаний персоны в новостях разделов "Волгоградские новости" и "Волгоградские пресс-релизы" на портале формируется рейтинг популярности и влияния персон . 
+Коллектив ГлобалВОЛГОГРАД . ру отслеживает изменения рейтинга и поощряет участников проекта за успехи . 
+В целом рейтинг участников строится на основе глубокого анализа активности PR-служб известных людей , а также отражает качественное состояние информационного поля , формируемого СМИ и пресс-службами вокруг организации . 
+< / div > < div >" Деловые люди Волгограда" 
+- проект о персонах , которые своими идеями , словами и поступками оказывают большое влияние на развитие и процветание Волгограда . 
+< / div > < / div > < / div > < / div > < / div > 
+< div class =" footer-block" > < div class =" content1" > < div class =" block-logo" > < div class =" logo" > < div class =" logo_text" > < div class =" text_1" > Глобал<span>ВОЛГОГРАД < / span >< span > . py < / span >< / div > < div class =" text_2" > Волгоградский бизнес портал < / div > < / div > < / div > < div class =" cop" >© 2004-2020 < br>Глобал<span>ВОЛГОГРАД < / span >< span > . py < / span >< / div > < / div > < div class =" news" > < ul > < li >< a href =" https : / / global-volgograd.ru / news" > Новости бизнеса < / a > и < a href =" https : / / global-volgograd.ru / firmnews" > пресс-релизы компаний < / a > . 
+< / li > < li >< a href =" https : / / global-volgograd.ru / person" > Рейтинг персон < / a > и < a href =" https : / / global-volgograd.ru / catalog" > компаний < / a > . 
+< / li > < li>База < a href =" https : / / global-volgograd.ru / vacancy" > вакансий < / a > и < a href =" https : / / global-volgograd.ru / resume" > резюме < / a > . 
+< / li > < / ul > < / div > < div class =" menu" > < ul > < li >< a href =" https : / / global-volgograd.ru / subscribe" > Подписка на новости < / a >< / li > < li >< a href =" http : / / globalmediaportal.ru / reklama" > Реклама на сайте < / a >< / li > < li >< a href =" http : / / globalmediaportal.ru /" > Франчайзинг < / a >< / li > < / ul > < / div > < div class =" contacts" > < div class =" phone" > < div class =" icon icon1" >< img src =" % D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BB%D1 . 
+% 20%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0 / phone1.png" alt =" Телефон" >< / div > < div class =" text text1" > 8 ( 800 ) 500 4231 < / div > < / div > < div class =" mail" > < div class =" icon icon2" >< img src =" % D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BB%D1 . 
+% 20%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0 / mail.png" alt =" Email" >< / div > < div class =" text text2" >< a href =" mailto:globalmedia200@yandex.ru" > globalmedia200@yandex.ru < / a >< / div > < div class =" text text2 hosting" > Хостинг < a href =" https : / / fastvps.ru / c_c1e17873ea672415057083b121268672" rel =" nofollow" > FastVPS < / a >< / div > < / div > < / div > < / div > < div class =" fixed_mobile" > < a href =" tel:88005004231" >< span>8 ( 800 ) 500 4231 < / span >< / a > < / div > < / div > < div class =" social-block" > < div > < div>Следуйте за нами < / div > < a target =" _ blank" href =" https : / / www.facebook.com / groups / globalvolgograd /" class =" fb" >< / a > < a target =" _ blank" href =" https : / / ok.ru / group / 52985980321885" class =" ok" >< / a > < a target =" _ blank" href =" https : / / twitter.com / globalvolgograd" class =" tw" >< / a > < a target =" _ blank" href =" https : / / vk.com / globalvolgograd" class =" vk" >< / a > < a target =" _ blank" href =" https : / / global-volgograd.ru / subscribe" class =" ep" >< / a > < a target =" _ blank" href =" https : / / global-volgograd.ru / news.php" class =" r" >< / a > < / div > < / div > < ! 
+- - Yandex.Metrika counter - - > < script type =" text / javascript" > ( function ( d , w , c ) { ( w[c ] = w[c ] | | [] ) . push ( function ( ) { try { w.yaCounter20803519 = new Ya.Metrika ( { id : 49771414 , webvisor:true , clickmap:true , trackLinks:true , accurateTrackBounce:true } ) ; } catch ( e ) { 
+var n = d.getElementsByTagName (" script" ) [ 0 ] , s = d.createElement (" script" ) , f = function ( ) { n.parentNode.insertBefore ( s , n ) ; 
+s.type = "text / javascript" ; s.async = true ; s.src = ( d.location.protocol == "https : " ? 
+"https : " : "http : ") + "/ / mc.yandex.ru / metrika / watch.js" ; 
+if ( w.opera == "[ object Opera ]" ) { d.addEventListener (" DOMContentLoaded" , f , false ) ; } else { f ( ) ; 
+} ) ( document , window , "yandex_metrika_callbacks" ) ; < / script > < noscript >< div >< img src =" / / mc.yandex.ru / watch / 20803519" style =" position:absolute ; left : - 9999px ; " alt =" / >< / div >< / noscript > < ! 
+- - / Yandex.Metrika counter - - > 
+- - Yandex.Metrika counter - - > < script type =" text / javascript" > ( function ( d , w , c ) { ( w[c ] = w[c ] | | [] ) . push ( function ( ) { try { w.yaCounter49846222 = new Ya.Metrika2 ( { id:49846222 , clickmap:true , trackLinks:true , accurateTrackBounce:true 
+} catch ( e ) { } } ) ; 
+var n = d.getElementsByTagName (" script" ) [ 0 ] , s = d.createElement (" script" ) , f = function ( ) { n.parentNode.insertBefore ( s , n ) ; } ; s.type = "text / javascript" ; s.async = true ; s.src = "https : / / mc.yandex.ru / metrika / tag.js" ; 
+if ( w.opera == "[ object Opera ]" ) { d.addEventListener (" DOMContentLoaded" , f , false ) ; } else { f ( ) ; } } ) ( document , window , "yandex_metrika_callbacks2" ) ; < / script > < noscript >< div >< img src =" https : / / mc.yandex.ru / watch / 49846222" style =" position:absolute ; left : - 9999px ; " alt =" / >< / div >< / noscript > < ! 
+- - / Yandex.Metrika counter - - > 
+- - [ if lt IE 9 ]>< script async src =" https : / / cdnjs.cloudflare.com / ajax / libs / html5shiv / 3.7.3 / html5shiv.min.js" >< / script >< ! 
+[ endif ] - - > < ! 
+- - Responsible for the project : ID558 - - > < script type =" text / javascript" src =" % D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BB%D1 . 
+% 20%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0 / jquery-1.js" >< / script > < script type =" text / javascript" src =" % D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BB%D1 . 
+% 20%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0 / slick.js" >< / script > < script type =" text / javascript" src =" % D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BB%D1 . 
+% 20%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0 / mobilemenu.js" >< / script > < script type =" text / javascript" src =" % D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BB%D1 . 
+% 20%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0 / script.js" >< / script > < script type =" text / javascript" src =" % D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BB%D1 . 
+% 20%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0 / jquery-ui-1.js" >< / script > < script type =" text / javascript" src =" % D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BB%D1 . 
+% 20%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0 / datepicker-ru.js" >< / script > < script src =" % D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BB%D1 . 
+% 20%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0 / jquery.js" >< / script > < script > function isScrolledIntoView ( elem ) 
+var docViewTop = $ ( window ) . scrollTop ( ) ; var docViewBottom = docViewTop + $ ( window ) . height ( ) ; 
+var elemTop = elem.offset ( ) . top ; var elemBottom = elemTop + elem.height ( ) ; 
+return ( ( elemBottom <= docViewBottom ) & & ( elemTop >= docViewTop ) ) ; } 
+function isScrolledIntoViewSidebar ( elem ) 
+var docViewTop = $ ( window ) . scrollTop ( ) ; var docViewBottom = docViewTop + $ ( window ) . height ( ) ; 
+if ( elem.offset ( ) ) { var elemTop = elem.offset ( ) . top ; } else { var elemTop = 0 ; } 
+var elemBottom = elemTop + elem.height ( ) ; 
+return ( elemBottom >= docViewTop ) ; } 
+function rightBaner ( ) { if ( window.location.pathname == '/' ) { return false ; 
+if ( $ (' . right-banner-240x400' ) . css (' height' ) ) { if ( false === isScrolledIntoViewSidebar ( $ (" . right-sidebar > div" ) . last ( ) ) ) { $ (' . right-banner-240x400' ) . addClass (' screen-stick' ) ; $ (' . right-banner-240x400' ) . css (' margin-top' , $ ( window ) . scrollTop ( ) - $ (" . right-sidebar" ) . offset ( ) . top - 30 + 'px' ) ; } else { $ (' . right-banner-240x400' ) . removeClass (' screen-stick' ) ; $ (' . right-banner-240x400' ) . css (' margin-top' , '20px' ) ; 
+var h_hght = 38 ; var h_mrg = 0 ; $ ( document ) . scroll ( function ( ) { rightBaner ( ) ; 
+$ ( function ( ) { rightBaner ( ) ; $ (' . educations' ) . collection ( ) ; if ( window.screen.width < 768 ) { var elem = $ (' . block-2-header-wrapper' ) ; var top = $ ( this ) . scrollTop ( ) ; 
+if ( top > h_hght ) { elem.css (' top' , h_mrg ) ; } 
+$ ( window ) . scroll ( function ( ) { top = $ ( this ) . scrollTop ( ) ; 
+if ( top+h_mrg < h_hght ) { elem.css (' top' , ( h_hght-top ) ) ; } else { elem.css (' top' , h_mrg ) ; 
+< / script > 
+< iframe name =" ym-native-frame" title =" ym-native-frame" style =" opacity : 0 ! important ; width : 0px ! important ; height : 0px ! important ; position : absolute ! important ; left : 100% ! important ; bottom : 100% ! important ; border : 0px none ! important ; " aria-hidden =" true" frameborder =" 0" >< / iframe >< iframe id =" google_osd_static_frame_7018649018338" name =" google_osd_static_frame" style =" display : none ; width : 0px ; height : 0px ; ">< / iframe >< ins class =" adsbygoogle adsbygoogle-noablate" style =" display : none ! important ; " data-adsbygoogle-status =" done" >< ins id =" aswift_6_expand" style =" display:inline-table ; border:none ; height:0px ; margin:0 ; padding:0 ; position:relative ; visibility:visible ; width:0px ; background-color:transparent ; ">< ins id =" aswift_6_anchor" style =" display:block ; border:none ; height:0px ; margin:0 ; padding:0 ; position:relative ; visibility:visible ; width:0px ; background-color:transparent ; ">< iframe id =" aswift_6" name =" aswift_6" style =" left:0 ; position:absolute ; top:0 ; border:0 ; width:undefinedpx ; height:undefinedpx ; " src =" % D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BB%D1 . 
+% 20%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0 / ads_004.html" marginwidth =" 0" marginheight =" 0" vspace =" 0" hspace =" 0" allowtransparency =" true" scrolling =" no" allowfullscreen =" true" data-google-container-id =" a ! 
+6" data-load-complete =" true" frameborder =" 0" >< / iframe >< / ins >< / ins >< / ins >< / body >< iframe id =" google_esf" name =" google_esf" src =" % D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BB%D1 . 
+% 20%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0 / zrt_lookup.html" style =" display : none ; " data-ad-client =" ca-pub-5153762079615820" >< / iframe >< / html > 

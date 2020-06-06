@@ -1,0 +1,23 @@
+encoding "utf8";
+
+TTextMinerConfig {
+	Dictionary = "dic.gzt";
+	PrettyOutput = "pretty.html";
+	Input = {
+		File = "Деловые люди Волгограда. Волгоградский бизнес портал.html";
+	}
+
+	Output = {
+		File = "persona.txt";
+		Format = text;
+	}
+
+Articles = [
+		{ Name = "FormulaExtract" }
+	]
+
+Facts = [
+		{ Name = "SAO" },
+		{ Name = "Chief" }
+	]
+}

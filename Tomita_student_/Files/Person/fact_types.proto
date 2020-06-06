@@ -1,0 +1,14 @@
+import "base.proto";
+import "facttypes_base.proto";  
+
+message SAO: NFactType.TFact
+{
+	required string Name = 1;
+}
+
+message Chief: NFactType.TFact
+{
+	required string Name = 1;
+}
+
+
